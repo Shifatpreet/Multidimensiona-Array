@@ -1,7 +1,7 @@
 //SHIFTPREET SINGH
 //24070123098
 //ENTC B1 
-
+//Matrix input form user and display
 
 #include <iostream>
 using namespace std;
