@@ -1,7 +1,7 @@
 //SHIFATPREET SINGH
 //24070123098
 //ENTC B1
-
+//Comparing elements of first row to the second row
 #include <iostream>
 using namespace std;
 
