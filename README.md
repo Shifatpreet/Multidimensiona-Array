@@ -136,7 +136,7 @@ __Algorithm:__
 5.Display if they are equal, or which one is greater.
 
 
-__::Conclusion::__
+__Conclusion__
 
 This project demonstrates fundamental operations on matrices using C++. Through various programs, the following concepts were practiced and understood:
 
